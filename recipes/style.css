@@ -1,5 +1,11 @@
-.food-name {
+.container-div {
   text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.food-name {
 }
 
 .food-img {
@@ -15,11 +21,13 @@
   width: 700px;
 }
 
-.description {
-  text-align: center;
+.description.text {
+  text-align: left;
 }
 
-.description.text {
-  margin: auto;
-  width: 60%;
+.description.ingredients {
+  text-align: left;
+}
+.steps {
+  text-align: left;
 }
