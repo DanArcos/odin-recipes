@@ -1,0 +1,25 @@
+.food-name {
+  text-align: center;
+}
+
+.food-img {
+  display: block;
+  margin: auto;
+}
+
+.food-img.cookies {
+  width: 400px;
+}
+
+.food-img.oxtail {
+  width: 700px;
+}
+
+.description {
+  text-align: center;
+}
+
+.description.text {
+  margin: auto;
+  width: 60%;
+}
