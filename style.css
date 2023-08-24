@@ -13,5 +13,40 @@ img {
 }
 
 .description {
+    display: block;
+    margin: auto;
+    width: 500px;
+}
+
+.description h2 {
+    text-align: center;
+}
+
+.ingredients {
+    display:block;
+    margin:auto;
+    width: 500px;
+}
+
+.ingredients h2{
+    text-align: center;
+}
+
+.ingredients ul{
+    text-align: left;
+}
+
+.steps{
+    display: block;
+    margin: auto;
+    width:500px;
+}
+
+.steps h2 {
+    text-align: center;
+}
+
+.home-link{
+    width: 100%;
     text-align: center;
 }
